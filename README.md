@@ -12,7 +12,7 @@
 
 ### My YouTube Channel
 
-[![youtube-github-profile](https://telegra.ph/file/4bc0d219d74c25e06f3b2.png)](https://yotube-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
+[![youtube-profile](https://telegra.ph/file/4bc0d219d74c25e06f3b2.png)](https://www.youtube.com/channel/UCxIAs0RCEmb7p909a_siH8w)
 
 <details>
  <summary><b>🐱 My GitHub Data</b></summary>
