@@ -11,7 +11,7 @@
 
 ### My YouTube Channel
 
-[![youtube-profile](https://telegra.ph/file/4bc0d219d74c25e06f3b2.png)](https://www.youtube.com/channel/UCxIAs0RCEmb7p909a_siH8w)
+[![youtube-profile](https://telegra.ph/file/13040cdb1ecd94e83c79b.png)](https://www.youtube.com/channel/UCxIAs0RCEmb7p909a_siH8w)
 
 <details>
  <summary><b>🐱 My GitHub Data</b></summary>
